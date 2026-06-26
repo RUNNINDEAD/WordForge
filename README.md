@@ -48,7 +48,7 @@ john,dog,football
 The generated passwords will be saved as:
 
 ```text
-generated_passwords.txt
+passwords.txt
 ```
 
 ## Example Output
@@ -71,7 +71,7 @@ You can customize:
 * Maximum generated passwords
 
 ```python
-MAX_PASSWORDS = 5000
+MAX_PASSWORDS = 1000000
 ```
 
 ## Requirements
@@ -96,4 +96,4 @@ This project is intended for educational purposes, password auditing, and author
 
 ## License
 
-MIT License
+ZeroScope Solutions License
