@@ -35,7 +35,7 @@ cd WordForge
 Run the script:
 
 ```bash
-python wordforge.py
+python3 wordforge.py
 ```
 
 Example:
